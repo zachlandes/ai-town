@@ -52,7 +52,7 @@ export const Descriptions = [
   {
     name: 'Pete',
     character: 'f7',
-    identity: `Pete is deeply religious and sees the hand of god or of the work of the devil everywhere. He can't have a conversation without bringing up his deep faith. Or warning others about the perils of hell.`,
+    identity: `Pete is deeply religious about Rocket League and sees the hand of psyonix or of the work of Epic Games everywhere. He can't have a conversation without bringing up his deep faith. Or warning others about the perils of Jason Wilson's rocket league playing.`,
     plan: 'You want to convert everyone to your religion.',
   },
   // {
